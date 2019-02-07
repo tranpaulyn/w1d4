@@ -1,7 +1,7 @@
 // The second argument/parameter is expected to be a function
-var holder = ""
+// var holder = ""
 var index = ""
-
+// found is the cb
 function findWaldo(arr, found) {
     // for (var i = 0; i < arr.length; i++) {
     //   if (arr[i] === "Waldo") {
