@@ -20,7 +20,7 @@ students.sort(function (a, b) {
     } else if (nameA > nameB) {
         return 1;
     } 
-        return a.age - b.age;
+        return b.age - a.age;
 });
 
 // sort by age if same name
