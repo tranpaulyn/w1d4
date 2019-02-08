@@ -1,0 +1,14 @@
+{
+  "name": "polyjuice",
+  "version": "1.0.0",
+  "description": "potion ingredients",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Harry Potter rules')"
+  },
+  "author": "Paulyn Tran",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
